@@ -9,6 +9,7 @@ Alignments
  * [SAM (pdf)](https://raw.githubusercontent.com/samtools/hts-specs/master/SAMv1.pdf)
  * [SAM tags (pdf)](https://raw.githubusercontent.com/samtools/hts-specs/master/SAMtags.pdf)
  * [PAF](https://github.com/lh3/miniasm/blob/master/PAF.md)
+ * [PAF tags (minimap2)](https://lh3.github.io/minimap2/minimap2.html#10)
 
 
 Annotation feature tables
