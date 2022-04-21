@@ -19,3 +19,10 @@ Annotation feature tables
  * [GTF](https://mblab.wustl.edu/GTF22.html)
  * [BED](http://genome.ucsc.edu/FAQ/FAQformat#format1)
  * [EMBL/GenBank/DDBJ](https://www.insdc.org/files/feature_table.html)
+
+
+Graphs
+------
+
+ * [GFA](http://gfa-spec.github.io/GFA-spec/)
+ * [Fastg](http://fastg.sourceforge.net/)
