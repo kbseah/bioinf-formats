@@ -26,3 +26,8 @@ Graphs
 
  * [GFA](http://gfa-spec.github.io/GFA-spec/)
  * [Fastg](http://fastg.sourceforge.net/)
+
+Misc
+----
+
+ * SAM-like key-value pairs in headers of Raven assembly: `RC` - number of reads; `XO` - contig circular (1 if true); [source](https://twitter.com/robertvaser/status/1380367600555806722)
